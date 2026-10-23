@@ -15,8 +15,6 @@ Hepsi [`lab_foyleri`](lab_foyleri) klasöründe; her föyün Markdown ve PDF hâ
 | 3 | Tehdit Senaryoları ve Risk Değerlendirmesi | [md](lab_foyleri/hafta-3-tehdit-ve-risk.md) | [pdf](lab_foyleri/hafta-3-tehdit-ve-risk.pdf) |
 | 4 | Güvenli Uzak Servis Erişimi | [md](lab_foyleri/hafta-4-guvenli-uzak-erisim.md) | [pdf](lab_foyleri/hafta-4-guvenli-uzak-erisim.pdf) |
 
-Kapak ve makine bilgisi ekiyle birlikte tek dosya: [tum-foyler.pdf](lab_foyleri/tum-foyler.pdf)
-
 Makine hakkında topladığım bilgiler ve föyleri hazırlarken yaptığım varsayımlar: [makine-bilgisi.md](makine-bilgisi.md)
 
 > Föyler eğitim amaçlıdır; resmî bir risk değerlendirmesi ya da uygunluk belgesi yerine geçmez.
